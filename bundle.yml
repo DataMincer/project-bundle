@@ -1,0 +1,9 @@
+# global:
+#   foo: bar
+
+# generators:
+#   - workers:
+#     -  worker: process
+#        fields:
+#          baz: qux
+#     - worker: debug
